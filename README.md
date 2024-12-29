@@ -10,8 +10,7 @@ A sleek and modern **Fitness Tracking App** built using **Flutter**, designed to
 - **User-Friendly Interface**: Attractive UI with vibrant colors and responsive layout.
 
 ## 🖼️ App Screenshots
-(Add relevant screenshots or GIFs of your app in action here)
-
+screenshots/fitness_traker.png
 ## 🛠️ Tech Stack
 - **Frontend**: Flutter (Dart)
 - **State Management**: Provider
